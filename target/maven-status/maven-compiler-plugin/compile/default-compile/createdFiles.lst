@@ -1,0 +1,7 @@
+com\mihi\MIHI\service\NosService.class
+com\mihi\MIHI\ServletInitializer.class
+com\mihi\MIHI\service\GervaisMail.class
+com\mihi\MIHI\model\Utilisateur.class
+com\mihi\MIHI\service\Candidature.class
+com\mihi\MIHI\Moncontroler.class
+com\mihi\MIHI\MihiApplication.class
