@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lysia
+Build-Jdk: 15.0.1
+Implementation-Title: MIHI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mihi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MIHI
+Created-By: Maven Integration for Eclipse
+
